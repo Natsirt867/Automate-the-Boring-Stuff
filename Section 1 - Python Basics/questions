@@ -1,0 +1,26 @@
+1. Which of the following are operators, and which are values?
+
+    *
+    'hello'
+    -88.8
+    -
+    /
+    +
+    5
+
+A:
+    Operators are [*, -, /, +]
+    Values are ['hello', -88.8, 5]
+
+2. Which of the following is a variable, and which is a string?
+
+    spam
+    'spam'
+
+A:
+    spam is a variable and 'spam' is a string
+
+3. Name three data types. (introduced in this chapter)
+
+A:
+    Integers, Floating-point numbers, Strings
